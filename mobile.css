@@ -27,6 +27,9 @@
   .download{
   margin: auto;
   }
+  .input{
+    padding: 2vh 5vw;
+  }
   .how br{
   display: none;
   }
