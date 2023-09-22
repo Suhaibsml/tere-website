@@ -1,0 +1,46 @@
+@media screen and (max-width:915px) {
+  .navlist{
+  display: none;
+  }
+  .logo img{
+  height: 40px;
+  }
+  .bar{
+  color: #000;
+  display: flex;
+  align-items: center;
+  font-size: 30px;
+  }
+  .text{
+  width: 100%;
+  }
+  .text h1{
+  font-size: 34px;
+  text-align: center;
+  }
+  .text p{
+  text-align: center;
+  }
+  .download img{
+  height: 35px;
+  }
+  .download{
+  margin: auto;
+  }
+  .how br{
+  display: none;
+  }
+  .content{
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: auto;
+  }
+  .left,.right{
+    margin: 0%;
+  }
+  .bot{
+    width: 100%;
+    text-align: center;
+  }
+  }
